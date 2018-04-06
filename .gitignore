@@ -1,3 +1,6 @@
+# dev configuration
+config/development.json
+
 # Logs
 logs
 *.log

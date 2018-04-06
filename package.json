@@ -25,5 +25,8 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "rest": "^2.0.0"
+  },
+  "jest": {
+    "testURL": "http://example.com"
   }
 }
