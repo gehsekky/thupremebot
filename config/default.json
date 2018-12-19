@@ -1,5 +1,10 @@
 {
-  "supreme-url": "http://www.supremenewyork.com",
-  "payment": null,
+  "supreme-url": "https://www.supremenewyork.com",
+  "payment": {
+    "cardNumber": null,
+    "cardExpiration": null,
+    "cardHolderName": null,
+    "cardVerificationNumber": null
+  },
   "buylist": []
 }
